@@ -164,7 +164,7 @@ module.exports = {
             'how-to/dashboard/config/image-registry',
           ],
         },
-        'platform-engineers/system-operation/observability',
+        'platform-engineers/operations/observability',
         'platform-engineers/system-operation/performance-finetuning',
         'platform-engineers/workflow/working-mechanism',
         {
